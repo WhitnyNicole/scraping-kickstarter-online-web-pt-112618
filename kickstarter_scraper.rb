@@ -11,3 +11,5 @@ kickstarter = Nokogiri::HTML(html)
 end 
 
 binding.pry 
+
+projects 
